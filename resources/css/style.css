@@ -3,6 +3,17 @@ body {
     padding: 24px;
 }
 
+nav,
+div,
+footer{
+    display: inline-block;
+    margin: 0;
+    width: 100%;
+}
 
-   
-
+nav,
+#about,
+#contact,
+footer {
+    background-color: rgba(110, 194, 190, 0.23);
+}
